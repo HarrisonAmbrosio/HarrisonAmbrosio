@@ -1,8 +1,7 @@
 ## 👋 Olá, Seja bem vindo !!
 
-Me chamo Harrison, sou estudante de Sistemas de Informação. Tenho formação técnica em Programação de Jogos Digitais e experiência desenvolvendo projetos de páginas web.
-## Atualmente, busco oportunidades para aplicar meus conhecimentos em desenvolvimento e expandir minhas habilidades na área de TI.
-
+Me chamo Harrison, sou estudante de Sistemas de Informação. Tenho formação técnica em Programação de Jogos Digitais e experiência desenvolvendo páginas web.
+## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Harry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Harry-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
