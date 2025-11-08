@@ -1,5 +1,8 @@
 ## 👋 Olá, Seja bem vindo !!
 
+## Me chamo Harrison, sou estudante de Sistemas de Informação. Tenho formação técnica em Programação de Jogos Digitais e experiência desenvolvendo projetos voltados para acessibilidade e inclusão digital, como um site para a comunidade surda.
+## Atualmente, busco oportunidades para aplicar meus conhecimentos em desenvolvimento e expandir minhas habilidades na área de TI, unindo criatividade, aprendizado constante e trabalho em equipe para entregar soluções que realmente façam a diferença.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Harry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Harry-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -9,9 +12,6 @@
   <img align="center" alt="Harry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Harry-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##Me chamo Harrison, sou estudante de Sistemas de Informação. Tenho formação técnica em Programação de Jogos Digitais e experiência desenvolvendo projetos voltados para acessibilidade e inclusão digital, como um site para a comunidade surda.
-Atualmente, busco oportunidades para aplicar meus conhecimentos em desenvolvimento e expandir minhas habilidades na área de TI, unindo criatividade, aprendizado constante e trabalho em equipe para entregar soluções que realmente façam a diferença.
  
 <div> 
  <a href="https://discord.gg/hMh8DJj8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
